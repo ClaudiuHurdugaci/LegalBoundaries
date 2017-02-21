@@ -24,7 +24,7 @@ Brazil
 > Magalhaes A.L.B. (2017) [Brazil: Biodiversity at risk from austerity law](http://www.nature.com/nature/journal/v542/n7641/full/542295e.html). *Nature* 542, 295-295.
 
 - New Brazilian Forest Code decreased forest protections along riverbanks and hills and relieved landholders of the obligation to reforest illegally cleared land.
-> Tollefson J. (2011) [Brazil revisits forest code](http://www.nature.com/news/2011/110817/full/476259a.html). *Nature* 476, 259-260.
+> Tollefson J. (2011) [Brazil revisits forest code](http://www.nature.com/news/2011/110817/full/476259a.html). *Nature* 476, 259-260.   
 > Tollefson J. (2012) [Brazil set to cut forest protection](http://www.nature.com/news/brazil-set-to-cut-forest-protection-1.10555). *Nature* 485, 19.
 
 - Brazilian bill 654/2015 proposes to fast-track environmental approval of development projects considered strategic for the country.
@@ -109,8 +109,9 @@ Mauritius 2015 biodiversity law opened for possibility to cull a
     species in the “national interest”, used to cull &gt;20,000
     Mauritius fruit bat (*Pteropus niger*).  
     
-> Florens F.B.V. (2016) [Biodiversity law: Mauritius culls threatened fruit bats](http://www.nature.com/nature/journal/v530/n7588/full/530033a.html). *Nature* 530, 33.  
-> Florens F.B.V. (2012) [Going to Bat for an Endangered Species](http://science.sciencemag.org/content/336/6085/1102.1). *Science* 336, 1102.  
+> Florens F.B.V. (2016) [Biodiversity law: Mauritius culls threatened fruit bats](http://www.nature.com/nature/journal/v530/n7588/full/530033a.html). *Nature* 530, 33.   
+> Florens F.B.V. (2015) [Flying foxes face cull despite evidence](http://science.sciencemag.org/content/350/6266/1325.1). *Science* 350, 1325.  
+> Florens F.B.V. (2012) [Going to Bat for an Endangered Species](http://science.sciencemag.org/content/336/6085/1102.1). *Science* 336, 1102.   
 IUCN. (2015) [Position statement on the culling of the Mauritius Fruit Bat Pteropus niger](http://www.batconafrica.net/wp-content/uploads/2015/10/IUCN-SSC-Position-Statement-Planned-Cull-Mauritius-Fruit-Bat1.pdf)
 
 Netherlands
