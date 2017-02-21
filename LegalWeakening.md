@@ -1,4 +1,4 @@
-This page lists changes in biodiversity laws all over the world that have the consequences of making them less effective. The list is continuously updated as we learn about new legal or policy changes. Propose additions or corrections to this list by email to <guillaume.chapron@slu.se> and read the criteria for inclusion.
+This page lists changes in biodiversity laws all over the world that have the consequences of making them less effective. The list is continuously updated as we learn about new legal or policy changes. Propose additions or corrections to this list by email to <guillaume.chapron@slu.se> and read the [criteria for inclusion](https://github.com/gchapron/LegalBoundaries/blob/master/README.md).
 
 Australia
 ---------

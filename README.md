@@ -1,16 +1,16 @@
 # Environmental laws are crucial to preserve nature – but are they becoming threatened themselves?
 
-This repository aims at recording changes in biodiversity laws. 
+This repository aims at recording changes to biodiversity laws. 
 
-Under the auspices of the Convention on Biological Diversity, the international community agreed in 2010 to [alleviate global biodiversity decline by 2020](https://www.theguardian.com/environment/2010/oct/29/biodiversity-talks-ministers-nagoya-strategy). There is now increasing scientific evidence that [biodiversity trends are unlikely to improve](http://science.sciencemag.org/content/346/6206/241.long) by the end of this decade (see also [Global Biodiversity Outlook 4](https://www.theguardian.com/environment/2014/oct/06/un-biodiversity-report-failure-meet-conservation-targets)). Nature protection laws are essential to meeting these targets but in a scientific paper published in the journal *Nature Ecology & Evolution*, we documented governments have been using numerous tactics to weaken environmental laws when they limited human activites. It is therefore important to keep track of legal or policy changes.
+Under the auspices of the Convention on Biological Diversity, the international community agreed in 2010 to [alleviate global biodiversity decline by 2020](https://www.theguardian.com/environment/2010/oct/29/biodiversity-talks-ministers-nagoya-strategy). There is now increasing scientific evidence that [biodiversity trends are unlikely to improve](http://science.sciencemag.org/content/346/6206/241.long) by the end of this decade (see also [Global Biodiversity Outlook 4](https://www.theguardian.com/environment/2014/oct/06/un-biodiversity-report-failure-meet-conservation-targets)). Nature protection laws are essential to meeting these targets but in a scientific paper published in the journal *Nature Ecology & Evolution*, we documented numerous tactics used to weaken environmental laws when they limited human activites. It is therefore important to keep track of legal or policy changes.
 
-With the pace of politics going fast (and often faster than academic publishing), your help is needed to keep updating our [**list of proposed or enacted legal or policy changes that have a negative impact on biodiversity**](https://github.com/gchapron/LegalBoundaries/blob/master/LegalWeakening.md).
+As attacks on laws can happen quickly (and often faster than academic publishing), your help is needed to keep updating our [**list of proposed or enacted legal or policy changes that have a negative impact on biodiversity**](https://github.com/gchapron/LegalBoundaries/blob/master/LegalWeakening.md).
 
 ---
 **Criteria for inclusion**
 
-- Legal changes need to be general and not-specific. For example, allowing a particular mining operation does not qualify, but changing the criteria to allow any or many operation qualifies.
-- Legal changes need to be reported by a reputable source of information (peer reviewed scientific journal, news article from trustowthy news outlet, e.g. The Guardian, The NY Times).
+- Legal changes should be general rather than specific. For example, allowing a particular mining operation does not qualify, but changing the criteria to allow any or many mining operations qualifies.
+- Legal changes should be reported by a reputable source of information (peer reviewed scientific journal, news article from trustworthy news outlet, e.g. The Guardian, The NY Times).
 - Legal changes can be parliament or executive acts, constitutional amendments or international agreements, jurisprudence, administrative discretion or political interference.
 - Email <guillaume.chapron@slu.se> with the proposed change you believe needs to be included. Many thanks!
 
@@ -28,4 +28,4 @@ We have identified the following tactics that governments have used to weaken bi
 We exclude legal tactics that do not specifically pertain to biodiversity laws, such as censorship on government scientists or use of national security and anti-terrorism laws to crack down on environmental advocates.
 
 ---
-Attempts at weakening environmental laws are often easier to detect and to understand than attempts at strenghtening environmental laws but we record strengthening changes as well. Possibly strengthening changes may include the opposite of the above mentionned tactics (e.g. giving priority to biodiversity, increasing funding, etc) or include more complex policy mechanisms such as biodiversity offsetting or payment for ecosystem services.
+Attempts at weakening environmental laws are often easier to detect and to understand than attempts at strengthening environmental laws but we record strengthening changes as well. Possibly strengthening changes may include the opposite of the above mentioned tactics (e.g. giving priority to biodiversity, increasing funding, etc.) or include more complex policy mechanisms such as biodiversity offsetting or payment for ecosystem services.
