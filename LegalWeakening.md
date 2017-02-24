@@ -105,14 +105,25 @@ Several mining companies won exemption from Indonesian law banning open-pit mini
 Mauritius
 ----
 
-Mauritius 2015 biodiversity law opened for possibility to cull a
-    species in the “national interest”, used to cull &gt;20,000
-    Mauritius fruit bat (*Pteropus niger*).  
-    
+- Mauritius 2015 biodiversity law opened for possibility to cull a
+    species in the “national interest”, used to cull > 40,000 (about 31,000 culled in 2015 and 10,000 in 2016) threatened Mauritius fruit bat (*Pteropus niger*).           
 > Florens F.B.V. (2016) [Biodiversity law: Mauritius culls threatened fruit bats](http://www.nature.com/nature/journal/v530/n7588/full/530033a.html). *Nature* 530, 33.   
 > Florens F.B.V. (2015) [Flying foxes face cull despite evidence](http://science.sciencemag.org/content/350/6266/1325.1). *Science* 350, 1325.  
 > Florens F.B.V. (2012) [Going to Bat for an Endangered Species](http://science.sciencemag.org/content/336/6085/1102.1). *Science* 336, 1102.   
-IUCN. (2015) [Position statement on the culling of the Mauritius Fruit Bat Pteropus niger](http://www.batconafrica.net/wp-content/uploads/2015/10/IUCN-SSC-Position-Statement-Planned-Cull-Mauritius-Fruit-Bat1.pdf)
+> [The Native Terrestrial Biodiversity and National Parks Act 2015](http://agriculture.govmu.org/English/Documents/Acts%20and%20Regulation/Native%20Terrestrial%20BD%20and%20National%20Parks%20Act%202015.pdf)   
+> IUCN. (2015) [Position statement on the culling of the Mauritius Fruit Bat Pteropus niger](http://www.batconafrica.net/wp-content/uploads/2015/10/IUCN-SSC-Position-Statement-Planned-Cull-Mauritius-Fruit-Bat1.pdf)
+
+- Policy put limit on biodiversity research by restricting fieldwork to office hours on weekdays due to alleged "safety concerns".   
+> Florens F.B.V. (2012) [National parks: Mauritius is putting conservation at risk](http://www.nature.com/nature/journal/v481/n7379/full/481029b.html). *Nature* 481, 29-29.
+
+- Mauritian government leased important offshore islet nature reserves for activities that conflict with conservation objectives, triggering extinction from one of the reserves of two populations of threatened endemic reptiles   
+>  Florens F.B.V. (2013) [Conservation: Mauritius threatens its own biodiversity](http://www.nature.com/nature/journal/v493/n7434/full/493608d.html). *Nature* 493, 608-609.
+
+- Attempted academic gagging. 
+> Florens F.B.V. (2013) [Research safeguards protected areas: The important role of governments](http://www.sciencedirect.com/science/article/pii/S016953471300181X). *Trends in Ecology and Evolution*. 28, 504-505
+
+- Illegal habitat destruction denied to have happened and / or penalties for different breaches of conservation Law not applied to known perpetrators. 
+> Florens F.B.V. (2013) [Conservation in Mauritius and Rodrigues: Challenges and achievements from two ecologically devastated oceanic islands](http://onlinelibrary.wiley.com/doi/10.1002/9781118679838.ch6/summary). In: Sodhi, N. et al (eds) Conservation biology: Voices from the tropics. pp 40-50. Wiley-Blackwell.
 
 Netherlands
 ----
@@ -163,7 +174,15 @@ British government proposes to increase financial liability of NGOs if they lose
 > Howard E. (2015) [Legal battles to protect the environment 'easier to fight in China than the UK'](https://www.theguardian.com/environment/2015/nov/11/legal-battles-to-protect-the-environment-easier-to-fight-in-china-than-the-uk). *The Guardian*   
 > Ministry of Justice. (2015) [Costs Protection in Environmental Claims – Proposals to revise the costs capping scheme for eligible environmental challenges](https://consult.justice.gov.uk/digital-communications/costs-protection-in-environmental-claims/supporting_documents/costprotectioninenvironmentalclaimsonsultationpaper.pdf).
 
-USA
+USA (Trump administration)
+---
+
+- EPA
+- War on wolves
+- Conflict mineral
+- Bee funding
+
+USA (pre-2017)
 ---
 
 -  United States budget rider striped Endangered Species Act (ESA) protections from gray wolves (*Canis lupus*) in Montana and Idaho.     
