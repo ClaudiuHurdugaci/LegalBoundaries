@@ -4,7 +4,7 @@ This repository aims at recording changes to biodiversity laws and policies.
 
 Under the auspices of the Convention on Biological Diversity, the international community agreed in 2010 to [alleviate global biodiversity decline by 2020](https://www.theguardian.com/environment/2010/oct/29/biodiversity-talks-ministers-nagoya-strategy). There is now increasing scientific evidence that [biodiversity trends are unlikely to improve](http://science.sciencemag.org/content/346/6206/241.long) by the end of this decade (see also [Global Biodiversity Outlook 4](https://www.theguardian.com/environment/2014/oct/06/un-biodiversity-report-failure-meet-conservation-targets)). Nature protection laws are essential to meeting these targets but in a [scientific paper](http://www.nature.com/articles/s41559-017-0086) published in the journal *Nature Ecology & Evolution* , we documented numerous tactics used to weaken environmental laws when they limited human activites. It is therefore important to keep track of legal or policy changes.
 
-As attacks on laws can happen quickly (and often faster than academic publishing), your help is needed to keep updating our [**list of proposed or enacted legal or policy changes for biodiversity**](https://github.com/gchapron/LegalBoundaries/blob/master/LegalWeakening.md).
+As attacks on laws can happen quickly (and often faster than academic publishing), your help is needed to keep updating our [**database of proposed or enacted legal or policy changes for biodiversity**](https://github.com/gchapron/LegalBoundaries/tree/master/Countries) for every country.
 
 ---
 **Criteria for inclusion**
