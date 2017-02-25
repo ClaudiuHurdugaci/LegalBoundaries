@@ -1,4 +1,4 @@
-# Biodivesity laws are crucial to preserve nature – but are they becoming threatened themselves?
+# Biodiversity laws are crucial to preserve nature – but are they becoming threatened themselves?
 
 This repository aims at recording changes to biodiversity laws and policies. 
 
